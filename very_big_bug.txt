@@ -1,0 +1,8 @@
+        hello, this is jordan69420 from the gitcoin hackathon, I am writing you to inform you that you groundbreaking cryptocurrency has 
+a fatal flaw.There is absoultely nothing in your root contract requiring that the connected conteract on an ethereum network is on the
+mainnet. The code that stops novices from exploiting the glich is usless website html, not solitity. There is a quick fix, just make your
+network require that the contract on the eth side is on the mainet. BUT YOU NEED TO DO THIS IN YOUR CONTRACT, NOT YOUR WEBSITE.
+
+
+
+        sincerely, jordan69420. on behalf of gitcoin hackathons
